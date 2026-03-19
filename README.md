@@ -127,6 +127,12 @@ BruteForceDetection/
 
 ---
 
+## 📖 Blog / Detailed Write-up
+
+I have explained this project in detail here:
+
+https://medium.com/@farhamustafi/building-a-real-time-brute-force-detection-system-with-powershell-236c4bebeaf8
+
 ##  Note
 
 This project is built for **educational and defensive security purposes only**.
