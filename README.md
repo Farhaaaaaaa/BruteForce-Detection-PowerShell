@@ -112,7 +112,7 @@ BruteForceDetection/
 ├── screenshots/
 │   └── output.png
 ├── diagrams/
-│   └── flow.png
+│   └── pipeline.png
 ```
 
 ---
